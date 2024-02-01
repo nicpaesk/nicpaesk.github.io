@@ -45,5 +45,70 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/content",
+      "title": "content"
+    },
+    {
+      "path": "[[workspace]]/content/authors",
+      "title": "authors"
+    },
+    {
+      "path": "[[workspace]]/content/post",
+      "title": "post"
+    },
+    {
+      "path": "[[workspace]]/content/event",
+      "title": "event"
+    },
+    {
+      "path": "[[workspace]]/content/authors/admin",
+      "title": "admin"
+    },
+    {
+      "path": "[[workspace]]/content/post/blog-with-jupyter",
+      "title": "blog-with-jupyter"
+    },
+    {
+      "path": "[[workspace]]/content/post/writing-technical-content",
+      "title": "writing-technical-content"
+    },
+    {
+      "path": "[[workspace]]/content/project/external-project",
+      "title": "external-project"
+    },
+    {
+      "path": "[[workspace]]/content/publication/journal-article",
+      "title": "journal-article"
+    },
+    {
+      "title": "example",
+      "path": "[[workspace]]/content/slides/example"
+    },
+    {
+      "title": "preprint",
+      "path": "[[workspace]]/content/publication/preprint"
+    },
+    {
+      "title": "conference-paper",
+      "path": "[[workspace]]/content/publication/conference-paper"
+    },
+    {
+      "title": "example",
+      "path": "[[workspace]]/content/event/example"
+    },
+    {
+      "title": "getting-started",
+      "path": "[[workspace]]/content/post/getting-started"
+    },
+    {
+      "title": "example",
+      "path": "[[workspace]]/content/project/example"
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313"
 }
